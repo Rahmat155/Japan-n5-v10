@@ -1,6 +1,6 @@
-# 🇯🇵 Japanese Quest N5
-
 <div align="center">
+
+# 🇯🇵 JAPANESE QUEST N5
 
 ### ⚔️ INTERACTIVE JAPANESE LEARNING RPG
 
@@ -12,13 +12,19 @@
 
 <br>
 
-[🎮 **BUKA APLIKASI**](https://rahmat155.github.io/Japan-n5-v10/)
+<img src="./assets/menu.png" width="850">
+
+<br><br>
+
+<a href="https://rahmat155.github.io/Japan-n5-v10/">
+  🎮 BUKA APLIKASI
+</a>
 
 </div>
 
 ---
 
-## 🌸 Tentang Project
+# 🌸 Tentang Project
 
 **Japanese Quest N5** adalah aplikasi pembelajaran Bahasa Jepang
 berbasis web yang dibuat untuk membantu belajar **Kanji dan Kotoba**
@@ -79,14 +85,16 @@ Kotoba juga memiliki sistem:
 - 👑 Boss
 - 📊 Statistik
 
-Database Kotoba juga mendukung **100.000+ kosakata**.
+Database Kotoba mendukung **100.000+ kosakata**.
 
 ---
 
-# 📘 Materi Tambahan — JFT A2 + Irodori
+# 📘 Materi Tambahan
 
-Selain materi N5, tersedia mode tambahan untuk latihan materi
-**JFT A2 + tambahan Kanji Irodori**.
+## JFT A2 + Irodori
+
+Selain materi N5, tersedia mode tambahan untuk latihan
+**613 materi Kanji dan Kotoba**.
 
 ### 🈶 Kanji Quest 613
 
@@ -117,7 +125,7 @@ Selain materi N5, tersedia mode tambahan untuk latihan materi
 
 Tidak hanya mengerjakan soal secara acak.
 
-Japanese Quest dapat membantu memfokuskan latihan pada
+Japanese Quest membantu memfokuskan latihan pada
 materi yang pernah mengalami kesalahan.
 
 Cocok untuk:
@@ -167,8 +175,8 @@ Contohnya:
 - 🈶 613 Dimulai
 - 🏆 Master 613
 
-Semakin rajin belajar, semakin banyak achievement yang dapat
-dibuka. 🔥
+Semakin rajin belajar, semakin banyak achievement
+yang dapat dibuka. 🔥
 
 ---
 
@@ -204,7 +212,8 @@ Dapat digunakan untuk:
 
 # 🔊 Audio Bahasa Jepang
 
-Beberapa bagian aplikasi mendukung audio pengucapan Bahasa Jepang.
+Beberapa bagian aplikasi mendukung audio pengucapan
+Bahasa Jepang.
 
 Audio menggunakan pengucapan:
 
@@ -216,9 +225,61 @@ Sehingga pengguna dapat sekaligus berlatih:
 
 ---
 
+# 📸 Tampilan Aplikasi
+
+## 🏠 Menu Utama
+
+<div align="center">
+
+<img src="./assets/menu.png" width="850">
+
+</div>
+
+---
+
+## ⚔️ Kanji Quest
+
+<div align="center">
+
+<img src="./assets/kanji.png" width="850">
+
+</div>
+
+---
+
+## 📚 Kotoba Quest
+
+<div align="center">
+
+<img src="./assets/kotoba.png" width="850">
+
+</div>
+
+---
+
+## 📊 Statistik & Evaluasi
+
+<div align="center">
+
+<img src="./assets/stats.png" width="850">
+
+</div>
+
+---
+
+## 🏆 Achievement
+
+<div align="center">
+
+<img src="./assets/achievement.png" width="850">
+
+</div>
+
+---
+
 # 💾 Penyimpanan Progress
 
-Progress belajar disimpan langsung pada perangkat melalui
+Progress belajar disimpan langsung pada perangkat menggunakan
 **Local Storage**.
 
 Progress dapat mencakup:
@@ -251,7 +312,7 @@ Japanese Quest N5 merupakan aplikasi berbasis web.
 
 Tidak perlu instal aplikasi.
 
-**Buka → Mainkan → Belajar.** 🎮
+### **Buka → Mainkan → Belajar. 🎮**
 
 ---
 
@@ -287,7 +348,7 @@ Materi yang tersedia mencakup:
 
 # 🛠️ Teknologi
 
-Project ini dibuat menggunakan teknologi web sederhana:
+Project ini dibuat menggunakan:
 
 - 🌐 HTML
 - 🎨 CSS
@@ -305,26 +366,29 @@ di browser.
 
 # 🎯 Tujuan Project
 
-Project ini dibuat sebagai media belajar dan latihan Bahasa Jepang
-tingkat N5.
+Project ini dibuat sebagai media belajar dan latihan
+Bahasa Jepang tingkat N5.
 
-Tujuan utamanya adalah membuat proses belajar menjadi lebih
-interaktif sehingga belajar tidak terasa seperti menghafal
-kosakata dan Kanji saja.
+Tujuan utamanya adalah membuat proses belajar menjadi
+lebih interaktif sehingga belajar tidak terasa seperti
+menghafal kosakata dan Kanji saja.
 
-> **Belajar sedikit setiap hari lebih baik daripada belajar banyak
-> sekali lalu berhenti.**
+> **Belajar sedikit setiap hari lebih baik daripada belajar
+> banyak sekali lalu berhenti.**
 
 ---
 
 # 🗺️ Roadmap
 
-Beberapa pengembangan yang dapat ditambahkan ke depannya:
+### ✅ Sudah Tersedia
 
 - [x] 🇯🇵 Kanji Quest N5
 - [x] 📚 Kotoba Quest N5
 - [x] ⚔️ Sistem RPG
-- [x] 👹 Monster & Boss Battle
+- [x] ❤️ HP System
+- [x] 🔥 Combo System
+- [x] 👹 Monster Battle
+- [x] 👑 Boss Battle
 - [x] 🧠 Smart Review
 - [x] 🏆 Achievement
 - [x] 📊 Statistik & Evaluasi
@@ -332,11 +396,16 @@ Beberapa pengembangan yang dapat ditambahkan ke depannya:
 - [x] 🔊 Audio Bahasa Jepang
 - [x] 📘 Materi 613
 - [x] 📚 Kotoba 100.000+
+
+### 🔮 Pengembangan Selanjutnya
+
 - [ ] 💾 Backup & Import Progress
 - [ ] 🎯 Daily Mission
 - [ ] 📅 Weekly Challenge
-- [ ] 🌙 Dark / Performance Mode
+- [ ] 🌙 Performance Mode
 - [ ] 📈 Statistik belajar yang lebih lengkap
+- [ ] 🏆 Achievement tambahan
+- [ ] 🎮 Fitur RPG tambahan
 
 ---
 
@@ -356,13 +425,27 @@ Tetapi tentang siapa yang **tetap belajar ketika merasa sulit.**
 
 # 🌸 Motivation
 
+<div align="center">
+
 ### 毎日少しずつ、日本語を勉強しよう！
 
 **Belajar Bahasa Jepang sedikit demi sedikit setiap hari.**
 
-🇮🇩 Indonesia → ✈️ → 🇯🇵 Jepang
+<br>
 
-### One Step Closer to Japan.
+🇮🇩 **Indonesia**
+
+⬇️
+
+✈️
+
+⬇️
+
+🇯🇵 **Japan**
+
+### **One Step Closer to Japan.**
+
+</div>
 
 ---
 
@@ -372,7 +455,7 @@ Tetapi tentang siapa yang **tetap belajar ketika merasa sulit.**
 
 ## 🗿 Rahmat
 
-**Rahmat155**
+### **Rahmat155**
 
 Project ini dibuat oleh **Rahmat**
 sebagai project pembelajaran, latihan, dan pengembangan
@@ -410,8 +493,10 @@ pengembangan pribadi, dan latihan Bahasa Jepang.
 
 **Belajar sedikit setiap hari.**
 
-⚔️ **Japanese Quest N5** ⚔️
+<br>
 
-**Made with ❤️ & ☕ by Rahmat**
+⚔️ **JAPANESE QUEST N5** ⚔️
+
+### Made with ❤️ & ☕ by Rahmat
 
 </div>
